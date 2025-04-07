@@ -95,7 +95,7 @@
         <dependency>
             <groupId>com.github.topi314.lavasrc</groupId>
             <artifactId>protocol-jvm</artifactId>
-            <version>4.4.2</version>
+            <version>4.5.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/net.sf.trove4j/trove4j -->
